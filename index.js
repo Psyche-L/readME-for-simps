@@ -1,8 +1,8 @@
 // DONE: Include packages needed for this application
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generateMarkdown = require("../readME-for-simps/utils/src/generateMarkdown");
-
+const generateMarkdown = require("./utils/src/generateMarkdown.js");
+const fileName = './dist/README.md'
 // TODO: Create an array of questions for user input
 const questions = [
     {
@@ -77,7 +77,7 @@ const init = () => {
     inquirer.prompt(questions)
     .then((answers) => {
         console.log(answers);
-        writeToFile("README.md", answers);
+        writeToFile(fileName, answers);
     })
     .catch((error) => {
         console.log(error);
