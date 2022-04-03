@@ -18,7 +18,7 @@ To deploy this project click the [Repo](https://github.com/Psyche-L/readME-for-s
 ```
 [Repo](https://github.com/Psyche-L/readME-for-simps)
 <br>
-[Video walk through]()
+[Video walk through](https://drive.google.com/file/d/15wPhlUlKO980mM1kqw_bSySt-NPPmGHl/view)
 
 ## Contacts
 

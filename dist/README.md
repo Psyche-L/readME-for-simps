@@ -24,11 +24,11 @@
   stuff
 
   # Contributors
-  stuff 
+  me
 
   #License
   This project is licensed under MIT .
 
   # Contract
-  If you have any questions or would like to contribute to this project, please feel free to reach me at @[things](https://github.com/things) or email me at thigs
+  If you have any questions or would like to contribute to this project, please feel free to reach me at @[stuff](https://github.com/stuff) or email me at sptheseve@gmail.com
 
